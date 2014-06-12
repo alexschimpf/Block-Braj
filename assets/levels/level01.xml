@@ -1,0 +1,40 @@
+<level>
+
+	<numRows>      10 </numRows>
+	<numColumns>   10 </numColumns>
+	<playerRow>    8  </playerRow>
+	<playerColumn> 1  </playerColumn>
+	<exitRow>      6 </exitRow>
+	<exitColumn>   7 </exitColumn>
+
+	<block>
+		<row> 9 </row>
+		<column> 0 </column>
+		<isWall> false </isWall>
+	</block>
+	
+	<block>
+		<row> 9 </row>
+		<column> 1 </column>
+		<isWall> false </isWall>
+	</block>
+	
+	<block>
+		<row> 9 </row>
+		<column> 3 </column>
+		<isWall> false </isWall>
+	</block>
+	
+	<block>
+		<row> 7 </row>
+		<column> 7 </column>
+		<isWall> true </isWall>
+	</block>
+	
+	<block>
+		<row> 9 </row>
+		<column> 4 </column>
+		<isWall> true </isWall>
+	</block>
+	
+</level>

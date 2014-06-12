@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Block Braj PRO</string>
+    <color name="menu_level_button_normal">#00000000</color>
+    <color name="menu_level_button_pressed">#000D84</color>
+</resources>

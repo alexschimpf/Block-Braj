@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="everything.png" type="bitmap" width="256" height="256" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:fc9b88e456b1ab3eed8857ff8f0b44dc$ -->
+    <textureregion id="0" src="carryblock.png" x="85" y="85" width="37" height="37" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="37" srcheight="37"/>
+    <textureregion id="1" src="cloud.png" x="3" y="3" width="92" height="32" rotated="false" trimmed="true" srcx="4" srcy="4" srcwidth="100" srcheight="40"/>
+    <textureregion id="2" src="day_groundblock1.png" x="123" y="126" width="37" height="34" rotated="true" trimmed="true" srcx="0" srcy="0" srcwidth="37" srcheight="74"/>
+    <textureregion id="3" src="day_groundblock2.png" x="159" y="167" width="37" height="32" rotated="true" trimmed="true" srcx="0" srcy="0" srcwidth="37" srcheight="74"/>
+    <textureregion id="4" src="day_wallblock1.png" x="44" y="203" width="37" height="37" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="37" srcheight="37"/>
+    <textureregion id="5" src="day_wallblock2.png" x="44" y="162" width="37" height="37" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="37" srcheight="37"/>
+    <textureregion id="6" src="day_wallblock3.png" x="44" y="121" width="37" height="37" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="37" srcheight="37"/>
+    <textureregion id="7" src="day_wallblock4.png" x="3" y="203" width="37" height="37" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="37" srcheight="37"/>
+    <textureregion id="8" src="desert_groundblock1.png" x="85" y="208" width="37" height="34" rotated="true" trimmed="true" srcx="0" srcy="0" srcwidth="37" srcheight="74"/>
+    <textureregion id="9" src="desert_groundblock2.png" x="123" y="208" width="37" height="32" rotated="true" trimmed="true" srcx="0" srcy="0" srcwidth="37" srcheight="74"/>
+    <textureregion id="10" src="desert_wallblock1.png" x="3" y="162" width="37" height="37" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="37" srcheight="37"/>
+    <textureregion id="11" src="desert_wallblock2.png" x="3" y="121" width="37" height="37" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="37" srcheight="37"/>
+    <textureregion id="12" src="desert_wallblock3.png" x="208" y="44" width="37" height="37" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="37" srcheight="37"/>
+    <textureregion id="13" src="desert_wallblock4.png" x="167" y="44" width="37" height="37" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="37" srcheight="37"/>
+    <textureregion id="14" src="exit.png" x="126" y="44" width="37" height="37" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="37" srcheight="37"/>
+    <textureregion id="15" src="night_groundblock1.png" x="85" y="167" width="37" height="34" rotated="true" trimmed="true" srcx="0" srcy="0" srcwidth="37" srcheight="74"/>
+    <textureregion id="16" src="night_groundblock2.png" x="123" y="167" width="37" height="32" rotated="true" trimmed="true" srcx="0" srcy="0" srcwidth="37" srcheight="74"/>
+    <textureregion id="17" src="night_wallblock1.png" x="44" y="80" width="37" height="37" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="37" srcheight="37"/>
+    <textureregion id="18" src="night_wallblock2.png" x="3" y="80" width="37" height="37" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="37" srcheight="37"/>
+    <textureregion id="19" src="night_wallblock3.png" x="85" y="44" width="37" height="37" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="37" srcheight="37"/>
+    <textureregion id="20" src="night_wallblock4.png" x="181" y="3" width="37" height="37" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="37" srcheight="37"/>
+    <textureregion id="21" src="snow_groundblock1.png" x="85" y="126" width="37" height="34" rotated="true" trimmed="true" srcx="0" srcy="0" srcwidth="37" srcheight="74"/>
+    <textureregion id="22" src="snow_groundblock2.png" x="126" y="85" width="37" height="32" rotated="true" trimmed="true" srcx="0" srcy="0" srcwidth="37" srcheight="74"/>
+    <textureregion id="23" src="snow_wallblock1.png" x="140" y="3" width="37" height="37" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="37" srcheight="37"/>
+    <textureregion id="24" src="snow_wallblock2.png" x="44" y="39" width="37" height="37" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="37" srcheight="37"/>
+    <textureregion id="25" src="snow_wallblock3.png" x="3" y="39" width="37" height="37" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="37" srcheight="37"/>
+    <textureregion id="26" src="snow_wallblock4.png" x="99" y="3" width="37" height="37" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="37" srcheight="37"/>
+</texture>

@@ -1,0 +1,94 @@
+<level>
+
+	<numRows>      10 </numRows>
+	<numColumns>   10 </numColumns>
+	<playerRow>    9  </playerRow>
+	<playerColumn> 1  </playerColumn>
+	<exitRow>      5 </exitRow>
+	<exitColumn>   9 </exitColumn>
+	
+	<block>
+		<row>    9     </row>
+		<column> 8     </column>
+		<isWall> false </isWall>
+	</block>
+	
+	<block>
+		<row>    8     </row>
+		<column> 7     </column>
+		<isWall> false </isWall>
+	</block>
+	
+	<block>
+		<row>    6     </row>
+		<column> 3     </column>
+		<isWall> true </isWall>
+	</block>
+	
+	<block>
+		<row>    6     </row>
+		<column> 4     </column>
+		<isWall> true </isWall>
+	</block>
+	
+	<block>
+		<row>    6     </row>
+		<column> 5     </column>
+		<isWall> true </isWall>
+	</block>
+	
+	<block>
+		<row>    5     </row>
+		<column> 5     </column>
+		<isWall> false </isWall>
+	</block>
+	
+	<block>
+		<row>    8     </row>
+		<column> 8     </column>
+		<isWall> false </isWall>
+	</block>
+	
+	<block>
+		<row>    9     </row>
+		<column> 9     </column>
+		<isWall> false </isWall>
+	</block>
+
+	<block>
+		<row>    9     </row>
+		<column> 8     </column>
+		<isWall> false </isWall>
+	</block>
+	
+	<block>
+		<row>    9     </row>
+		<column> 6     </column>
+		<isWall> false </isWall>
+	</block>
+	
+	<block>
+		<row>    9     </row>
+		<column> 7     </column>
+		<isWall> false </isWall>
+	</block>
+	
+	<block>
+		<row>    8     </row>
+		<column> 9     </column>
+		<isWall> false </isWall>
+	</block>
+	
+	<block>
+		<row>    9     </row>
+		<column> 4     </column>
+		<isWall> false </isWall>
+	</block>
+	
+	<block>
+		<row>    9     </row>
+		<column> 3     </column>
+		<isWall> false </isWall>
+	</block>
+	
+</level>
